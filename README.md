@@ -1,6 +1,7 @@
 ## Hi there 👋, my name is Gilberto Beckford
 
-I'm a Computer System Engineer interested in fullStack development and software engineering.
+## 🙋🏿‍♂️ About me
+I'm a Systems and Computer Engineer interested in fullStack development and software engineering.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
