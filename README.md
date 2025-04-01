@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <code><img height="20" title="GraphQL" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
   <code><img height="20" title="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
   <code><img height="20" title="Redis" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-  <code><img height="20" title="RabbitMQ" src="https://www.rabbitmq.com/img/logo-rabbitmq.svg"></code>
+  <code><img height="20" title="RabbitMQ" src="[https://www.rabbitmq.com/img/logo-rabbitmq.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Drabbitmq&psig=AOvVaw0hoBpZzZCX3gw5h1XdMIjm&ust=1743574643613000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOD02-2XtowDFQAAAAAdAAAAABAE)"></code>
   <code><img height="20" title="Apache Kafka" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/kafka/kafka.png"></code>
   <code><img height="20" title="BullMQ" src="https://raw.githubusercontent.com/taskforcesh/bullmq/master/docs/gitbook/assets/bullmq.svg"></code>
   <code><img height="20" title="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postgresql/postgresql.png"></code>
