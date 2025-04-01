@@ -2,6 +2,7 @@
 
 ## 🙋🏿‍♂️ About me
 I'm a Systems and Computer Engineer interested in fullStack development and software engineering.
+## 🚀 Full-Stack Developer | DevOps Enthusiast | Open Source Contributor
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
