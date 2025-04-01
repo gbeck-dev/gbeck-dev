@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <code><img height="20" title="GraphQL" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
   <code><img height="20" title="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
   <code><img height="20" title="Redis" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-  <code><img height="20" title="RabbitMQ" src="https://w7.pngwing.com/pngs/260/676/png-transparent-rabbitmq-hd-logo-thumbnail.png"></code>
+  <code><img height="20" title="RabbitMQ" src="https://w7.pngwing.com/pngs/890/101/png-transparent-rabbitmq-advanced-message-queuing-protocol-message-queue-computer-network-others-miscellaneous-computer-network-angle-thumbnail.png"></code>
   <code><img height="20" title="Apache Kafka" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/kafka/kafka.png"></code>
   <code><img height="20" title="BullMQ" src="https://raw.githubusercontent.com/taskforcesh/bullmq/master/docs/gitbook/assets/bullmq.svg"></code>
   <code><img height="20" title="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postgresql/postgresql.png"></code>
