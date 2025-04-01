@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <code><img height="20" title="MongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg"></code><br />
   <code><img height="20" title="Liquid" src="https://www.digitalrooar.com.au/wp-content/uploads/2024/08/shopify-liquid-icon.png"></code>
   <code><img height="20" title="Jenkins" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/jenkins/jenkins.png"></code>
-  <code><img height="20" title="Digital Ocean" src="https://www.digitalocean.com/_next/static/media/logo-small.7034452b.svg"></code>
+  <code><img height="20" title="Digital Ocean" src="https://static-00.iconduck.com/assets.00/digitalocean-icon-2048x2048-8gba60x8.png"></code>
   <code><img height="20" title="ASP.NET" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
   <code><img height="20" title="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
   <code><img height="20" title="C++" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
