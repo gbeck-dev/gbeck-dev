@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <code><img height="20" title="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code><img height="20" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="20" title="Heroku" src="https://raw.githubusercontent.com/heroku/favicon/master/favicon.iconset/icon_32x32.png"></code>
-  <code><img height="20" title="Google Cloud Platform" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png"></code>
+  <code><img height="20" title="Google Cloud Platform" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png"></code>
   <code><img height="20" title="AWS EC2" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
   <code><img height="20" title="AWS Lambda" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
   <code><img height="20" title="AWS S3" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
