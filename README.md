@@ -2,7 +2,7 @@
 
 ## 🙋🏿‍♂️ About me
 I'm a Systems and Computer Engineer interested in fullStack development and software engineering.
-## 🚀 Full-Stack Developer | DevOps Enthusiast | Software Enfineer
+## 🚀 Full-Stack Developer | DevOps Enthusiast | Software Engineer
 
 - 🔭 I’m currently working on [mobile-emulator-web-viewer](https://github.com/gbeck-dev/mobile-emulator-web-viewer)
 
