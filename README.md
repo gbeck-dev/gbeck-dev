@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <code><img height="20" title="Apache Kafka" src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans.png"></code>
   <code><img height="20" title="BullMQ" src="https://miro.medium.com/v2/resize:fill:320:214/1*RhZEMaxLu6p1Fepm0XLQ5A@2x.png"></code>
   <code><img height="20" title="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postgresql/postgresql.png"></code>
-  <code><img height="20" title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code><br />
+  <code><img height="20" title="MongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg"></code><br />
   <code><img height="20" title="Liquid" src="https://www.digitalrooar.com.au/wp-content/uploads/2024/08/shopify-liquid-icon.png"></code>
   <code><img height="20" title="Jenkins" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/jenkins/jenkins.png"></code>
   <code><img height="20" title="Digital Ocean" src="https://www.digitalocean.com/_next/static/media/logo-small.7034452b.svg"></code>
