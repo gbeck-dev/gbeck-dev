@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 - [x] Front-End
 - [x] DevOps
 - [x] Databases
-<!-- - [x] Scrum Master -->
 - [x] Mobile Apps
-<!--- [x] UI/UX
+<!-- - [x] Scrum Master -- >
+- [x] Mobile Apps
+<!- -- [x] UI/UX
 - [x] Innovation -->
 
 <table>
