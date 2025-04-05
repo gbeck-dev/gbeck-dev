@@ -15,13 +15,25 @@ Here are some ideas to get you started:
 
 ## Hi there 👋, I'm Gilberto Beckford, I'm a fullstack Engineer
 
+
+- [x] Back-End
+- [x] Front-End
+- [x] DevOps
+- [x] Databases
+- [x] Scrum Master
+- [x] Mobile Apps
+- [x] UI/UX
+- [x] Innovation  
+
+
+<!--
 ## 🙋🏿‍♂️ About me
 I'm a Systems and Computer Engineer interested in fullStack development and software engineering.
 ## 🚀 Full-Stack Developer | DevOps Enthusiast | Software Engineer
 
 - 🔭 I’m currently working on [mobile-emulator-web-viewer](https://github.com/gbeck-dev/mobile-emulator-web-viewer)
 
-
+<! --
 <div align="center">
   <h4>Languages and Tools:</h4>
   <code><img height="20" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -58,3 +70,4 @@ I'm a Systems and Computer Engineer interested in fullStack development and soft
   <code><img height="20" title="Puppeteer" src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png"></code>
   <code><img height="20" title="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/raspberry-pi/raspberry-pi.png"></code>
 </div>
+-->
