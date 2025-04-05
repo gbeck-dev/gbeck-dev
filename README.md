@@ -93,6 +93,8 @@ NextJS, ExpressJS </br></td></tr>
 <!-- <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>   -->
 <!-- <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>   -->
 <!-- <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>   -->
+  <code><img height="20" title="BullMQ" src="https://miro.medium.com/v2/resize:fill:320:214/1*RhZEMaxLu6p1Fepm0XLQ5A@2x.png"></code>
+<a href="https://docs.bullmq.io/" target="_blank"><img style="margin: 10px" src="https://docs.bullmq.io/~gitbook/image?url=https%3A…3ce&width=32&dpr=1&quality=100&sign=929d1d52&sv=2" alt="GraphQL" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="50" /></a>  
