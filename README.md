@@ -32,24 +32,22 @@ Here are some ideas to get you started:
 </tr>
 </thead>
 <tbody>
-<tr><th scope='row'>Full Name</th><td>Christhoval Barba Rivas</td></tr>
-<tr><th scope='row'>Date of Birth</th><td><time datetime="1989-01-06 04:00">January 06, 1989</time></td></tr>
-<tr><th scope='row'>Country of Birth</th><td>Darien, Panama</td></tr>
+<tr><th scope='row'>Full Name</th><td>Gilberto Leopoldo Beckford</td></tr>
+<tr><th scope='row'>Date of Birth</th><td><time datetime="1991-08-07 06:00">August 07, 1991</time></td></tr>
+<tr><th scope='row'>Country of Birth</th><td>Panama, Panama</td></tr>
 <tr><th scope='row'>Nationality</th><td>Panama</td></tr>
-<tr><th scope='row'>College Degree</th><td>B.S. in Computer Science</td></tr>
+<tr><th scope='row'>College Degree</th><td>B.S. in Computer Engineering</td></tr>
 <tr><th scope='row'>Alma Mater</th><td>University Technological of Panama | Faculty of Systems and Computing</td></tr>
-<tr><th scope='row'>Occupation</th><td>Tech Lead Front-End</td></tr>
-<tr><th scope='row'>Skills</th><td>Nodejs, TS, python, css, react, mobX, </td></tr>
+<tr><th scope='row'>Occupation</th><td>Software Engineer</td></tr>
+<tr><th scope='row'>Skills</th><td>Nodejs, TS, python, css, react, </td></tr>
 <tr><th scope='row'>Stuff I've worked with</th><td>
-React Native, React.js, postgreSQL, mongoBD, Flutter, JavaScript, TypeScript</br>
+React Native, React.js, postgreSQL, mongoBD, JavaScript, TypeScript</br>
 Django, Python, Flask, Jupiter Notes</br>
-Objective-C, switft, switfUI</br>
 Java, Spring Boot, android, kotlin</br>
 Firebase</br>
-NextJS, ExpressJS, KeystoneJS, Gatsby, strapi</br>
-Elixir</td></tr>
+NextJS, ExpressJS </br></td></tr>
 <tr><th scope='row'>Interests</th><td>AI, DevOps, ML, UI/UX, Data Science, Apps</td></tr>
-<tr><th scope='row'>Hobbies</th><td>Rugby, Travel, Bike, Gym, Walk</td></tr>
+<tr><th scope='row'>Hobbies</th><td>Music, Gimnastics, traveling, Gym</td></tr>
 </tbody>
 </table>
 
@@ -183,7 +181,7 @@ I'm a Systems and Computer Engineer interested in fullStack development and soft
 
 - 🔭 I’m currently working on [mobile-emulator-web-viewer](https://github.com/gbeck-dev/mobile-emulator-web-viewer)
 
-<! --
+<! -- -->
 <div align="center">
   <h4>Languages and Tools:</h4>
   <code><img height="20" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -220,4 +218,4 @@ I'm a Systems and Computer Engineer interested in fullStack development and soft
   <code><img height="20" title="Puppeteer" src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png"></code>
   <code><img height="20" title="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/raspberry-pi/raspberry-pi.png"></code>
 </div>
--->
+
